@@ -12,3 +12,5 @@
 
 5.setup.py  --> in python there are lot of packges are there (pip install seaborn ) our project will also install we use pip install project.
 --> with the setup .py will do that our entire ml project convert as package so that anybody can install by a command like pip install package_name we can uplaod the pypi like other packges do . eg:seaborn.
+
+### create Scr folder and build the packages
